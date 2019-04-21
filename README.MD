@@ -14,4 +14,4 @@ I used HTML,CSS and bootstrap languages
 #support and contacts
 elijahroselyne@gmail.com
 ### License
-@rosellyne
+copyright rosellyne
