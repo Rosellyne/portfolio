@@ -11,6 +11,7 @@
 *to leave any comment about the project, just contact/follow me on my social media stated below
 ## Technologies Used
 I used HTML,CSS and bootstrap languages
-
+#support and contacts
+elijahroselyne@gmail.com
 ### License
 @rosellyne
