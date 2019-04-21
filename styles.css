@@ -4,6 +4,18 @@
   font-family: 'Merienda', cursive;
 }
 
+body{
+   background-image: url("https://images.pexels.com/photos/584414/fluffy-cloud-cloudscape-sky-584414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+footer{
+  text-align: center;
+  font-size: 5em;
+}
+
 /* .intro{
   text-align: center;
   font-family: sans-serif;
@@ -70,4 +82,11 @@ footer{
 .container h2{
   margin-top: 16%;
   text-align: center;
+}
+
+.icons{
+  font-size: 4vh;
+  margin-top: 20%;
+  text-align: center;
+  margin:10px;
 }
